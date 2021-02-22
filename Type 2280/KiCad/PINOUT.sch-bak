@@ -1,0 +1,49 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SSD_M2:PINOUT JP?
+U 1 1 6034B26A
+P 2550 2700
+F 0 "JP?" H 2575 3565 50  0000 C CNN
+F 1 "PINOUT" H 2575 3474 50  0000 C CNN
+F 2 "" H 2700 350 50  0001 C CNN
+F 3 "" H 2700 350 50  0001 C CNN
+	1    2550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SSD_M2:PINOUT JP?
+U 2 1 6034F5B4
+P 7750 2850
+F 0 "JP?" H 7725 3315 50  0000 C CNN
+F 1 "PINOUT" H 7725 3224 50  0000 C CNN
+F 2 "" H 7900 500 50  0001 C CNN
+F 3 "" H 7900 500 50  0001 C CNN
+	2    7750 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L SSD_M2:PINOUT JP?
+U 3 1 603505C4
+P 13550 2500
+F 0 "JP?" H 13575 4115 50  0000 C CNN
+F 1 "PINOUT" H 13575 4024 50  0000 C CNN
+F 2 "" H 13700 150 50  0001 C CNN
+F 3 "" H 13700 150 50  0001 C CNN
+	3    13550 2500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
