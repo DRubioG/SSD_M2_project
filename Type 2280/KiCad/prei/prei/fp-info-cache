@@ -1,4 +1,4 @@
-16380291671707774
+16377062703471737
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42671,13 +42671,6 @@ THT ceramic resonator filter DSS6
 0
 3
 3
-DDR3
-prueba
-
-
-0
-6
-1
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -66765,20 +66758,6 @@ rotary encoder
 0
 5
 4
-SATA
-SATA_PINOUT
-
-
-0
-59
-59
-SATA
-prueba
-
-
-0
-6
-1
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -73212,6 +73191,13 @@ varistor SIOV
 0
 2
 2
+ZYNQ_7000
+prei4
+
+
+0
+1
+1
 Zynq-eame_UltraScale_0
 BGA-25_5x5_2.049999x2.049999mm
 
